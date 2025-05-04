@@ -1,0 +1,34 @@
+{
+  "name": "IBRU Token List",
+  "logoURI": "https://i.imgur.com/z2HCS2u.png",
+  "keywords": [
+    "ibru",
+    "memecoin",
+    "solana",
+    "brainrot"
+  ],
+  "tags": {
+    "memecoin": {
+      "name": "Memecoin",
+      "description": "Tokens based on meme culture"
+    }
+  },
+  "timestamp": "2025-05-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "9sY4tvhUgcqHEz1ZNV34AkkjKuNMFqPU8Jf7CYBApump",
+      "symbol": "IBRU",
+      "name": "Italian Brainrot Universe",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/z2HCS2u.png",
+      "tags": [
+        "memecoin"
+      ],
+      "extensions": {
+        "website": "https://cristianojosan.github.io/ibrusite/",
+        "description": "Meme coin representing the chaos of the Italian Brainrot trend."
+      }
+    }
+  ]
+}
